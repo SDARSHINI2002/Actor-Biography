@@ -1,4 +1,4 @@
-My Favourite Actor
+Actor Biography
 
 A basic and informative HTML project that showcases details about my favourite actor. This static web page includes personal information, career highlights, popular movies, images, and interesting facts — all structured using semantic HTML tags.
 
